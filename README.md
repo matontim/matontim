@@ -3,7 +3,7 @@
 <h3 align="center">Incoming M.Sc. Bioinformatics Student at Boston University</h3>
 <p align="center">I enjoy working with computational tools to help analyze biological data and improve research workflows. My work combines molecular biology, statistics, and software development to create reproducible and user-friendly systems for scientific data analysis.</p>
 
-<p align="center">I am particularly interested in applying full-stack web development to scientific computing — building interfaces and tools that support structured data input, visualization, and analysis for research environments. Areas of interest include drug discovery, machine learning, and research-focused web applications.</p>
+<p align="center">I am particularly interested in applying full-stack web development to scientific computing, building interfaces and tools that support structured data input, visualization, and analysis for research environments. Areas of interest include drug discovery, machine learning, and web design.</p>
 
 <h3>Current Projects</h3>
 
