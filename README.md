@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Madeline Matonti</h1>
 <h3 align="center">Medical Laboratory Scientist at Massachusetts General Hospital</h3>
-<h3>Incoming M.Sc. Bioinformatics Student at Boston University</h3>
+<h3 align="center">Incoming M.Sc. Bioinformatics Student at Boston University</h3>
 <p>I enjoy working with computational tools to help analyze biological data and improve research workflows. My work combines molecular biology, statistics, and software development to create reproducible and user-friendly systems for scientific data analysis. 
 
 I am particularly interested in applying full-stack web development to scientific computing — building interfaces and tools that support structured data input, visualization, and analysis for research environments. Areas of interest include drug discovery, machine learning, and research-focused web applications.</p>
