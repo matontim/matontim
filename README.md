@@ -18,13 +18,13 @@ learning, and web design.
 ## Languages and Tools
 
 **Bioinformatics & Data Science**
-Python, R, pandas, numpy, scipy, scikit-learn, matplotlib
+Python, pandas, numpy, scipy, scikit-learn, matplotlib, R, ggplot2, dplyr, tidyr
 
 **Web Development**
-HTML, CSS, JavaScript, Next.js, Tailwind CSS, Vercel
+HTML, CSS, JavaScript, Typescript, Next.js, Tailwind CSS, Vercel
 
 **Other**
-Git, Linux, MATLAB, ProxmoxVE
+Git, Linux, MATLAB, ProxmoxVE, Secure Shell (SSH)
 
 ---
 
