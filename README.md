@@ -17,13 +17,13 @@ learning, and web design.
 
 ## Languages and Tools
 
-**Bioinformatics & Data Science**
+**Bioinformatics & Data Science**:
 Python, pandas, numpy, scipy, scikit-learn, matplotlib, R, ggplot2, dplyr, tidyr
 
-**Web Development**
+**Web Development**:
 HTML, CSS, JavaScript, Typescript, Next.js, Tailwind CSS, Vercel
 
-**Other**
+**Other**:
 Git, Linux, MATLAB, ProxmoxVE, Secure Shell (SSH)
 
 ---
@@ -56,3 +56,4 @@ Git, Linux, MATLAB, ProxmoxVE, Secure Shell (SSH)
 ## Connect with Me
 
 [LinkedIn](https://linkedin.com/in/madeline-matonti)
+[Email](linniesage@gmail.com)
