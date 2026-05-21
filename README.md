@@ -1,6 +1,6 @@
 # Hi, I'm Madeline Matonti
 
-## Medical Laboratory Scientist at Massachusetts General Hospital | M.Sc. Bioinformatics Candidate at Boston University
+## Medical Laboratory Scientist at Massachusetts General Hospital | M.Sc. Bioinformatics Student at Boston University
 
 I enjoy working with computational tools to help analyze biological 
 data and improve research workflows. My work combines molecular biology, 
