@@ -28,6 +28,13 @@ Git, Linux, MATLAB, ProxmoxVE, Secure Shell (SSH)
 
 ---
 
+## Licenses and Certifications
+
+**Scientist in Chemistry, C(ASCP)<sup>CM</sup>**
+ASCP Board of Certification, Issued: [May 2026] – Expires: [May 2029]
+
+---
+
 ## Current Projects
 
 **Study Planner Web Application**
