@@ -1,17 +1,14 @@
 # Hi, I'm Madeline Matonti, C(ASCP)<sup>CM</sup>
 
+---
+
 ## Medical Laboratory Scientist in Chemistry at Massachusetts General Hospital | M.S. Bioinformatics Student at Boston University
 
-I enjoy working with computational tools to help analyze biological 
-data and improve research workflows. My work combines molecular biology, 
-statistics, and software development to create reproducible and 
-user-friendly systems for scientific data analysis.
+---
 
-I am particularly interested in applying full-stack web development 
-to scientific computing, building interfaces and tools that support 
-structured data input, visualization, and analysis for research 
-environments. Areas of interest include drug discovery, machine 
-learning, and web design.
+I am a Bioinformatics Master's student with experience in RNA-seq analysis, genomic data processing, statistical modeling, and scientific programming. Through independent projects and research experiences, I have developed computational workflows for biological data analysis and reproducible research.
+
+I am particularly interested in combining bioinformatics with full-stack web development to create user-friendly tools for data visualization, analysis, and scientific collaboration. My long-term interests include multi-omics data integration, machine learning, drug discovery, and building software that lowers barriers to computational research.
 
 ---
 
