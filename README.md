@@ -1,6 +1,6 @@
 # Hi, I'm Madeline Matonti, C(ASCP)<sup>CM</sup>
 
-## Medical Laboratory Scientist in Chemistry at Massachusetts General Hospital | M.Sc. Bioinformatics Student at Boston University
+## Medical Laboratory Scientist in Chemistry at Massachusetts General Hospital | M.S. Bioinformatics Student at Boston University
 
 I enjoy working with computational tools to help analyze biological 
 data and improve research workflows. My work combines molecular biology, 
