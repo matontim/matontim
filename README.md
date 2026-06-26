@@ -1,6 +1,8 @@
 # Hi, I'm Madeline Matonti, C(ASCP)<sup>CM</sup>
 
-## Medical Laboratory Scientist in Chemistry at Massachusetts General Hospital | Bioinformatics Intern in the Balaj Lab at the Mass General Brigham Dept. of Neurosurgery | M.S. Bioinformatics Student at Boston University
+- Medical Laboratory Scientist in Chemistry at Massachusetts General Hospital
+- Bioinformatics Intern in the Balaj Lab at the Mass General Brigham Dept. of Neurosurgery
+- M.S. Bioinformatics Student at Boston University
 
 I am a Bioinformatics Master's student and Bioinformatics intern with experience in RNA-seq analysis, genomic data processing, statistical modeling, and scientific programming. Through research experiences and independent projects, I have developed computational workflows for biological data analysis and reproducible research.
 
