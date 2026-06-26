@@ -42,10 +42,13 @@ ASCP Board of Certification, Issued: [May 2026] – Expires: [May 2029]
   user-centered interface development
 - Designed as a practice platform for building scalable web tools 
   and data-driven applications
+  
 **m6a Analysis**
   - Downstream analysis of m6Anet output across naive, astrocyte, IGF2BP2-KD, and ALKBH5-KD conditions for the Gli36 cell line, using the m6AnetAnalyzer R package
+    
 **Rosalind**
 - Working through Rosalind bioinformatics problems to strengthen scientific programming abilities and computational biology fundamentals
+  
 ---
 
 ## Past Projects
