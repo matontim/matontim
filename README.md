@@ -19,7 +19,7 @@ Python, pandas, numpy, scipy, scikit-learn, matplotlib, R, ggplot2, dplyr, tidyr
 HTML, CSS, JavaScript, Typescript, Next.js, Tailwind CSS, Vercel
 
 **Other**:
-Git, Linux, MATLAB, ProxmoxVE, Secure Shell (SSH)
+Git, Linux, MATLAB, ProxmoxVE, Secure Shell (SSH), LaTeX
 
 ---
 
@@ -43,8 +43,9 @@ ASCP Board of Certification, Issued: [May 2026] – Expires: [May 2029]
 - Designed as a practice platform for building scalable web tools 
   and data-driven applications
 **m6a Analysis**
-  - Downstream analysis of m6Anet output across naive, astrocyte, IGF2BP2-KD, and ALKBH5-KD conditions for the Gli36 cell line, using the m6AnetAnalyzer R package.
-
+  - Downstream analysis of m6Anet output across naive, astrocyte, IGF2BP2-KD, and ALKBH5-KD conditions for the Gli36 cell line, using the m6AnetAnalyzer R package
+**Rosalind**
+- Working through Rosalind bioinformatics problems to strengthen scientific programming abilities and computational biology fundamentals
 ---
 
 ## Past Projects
